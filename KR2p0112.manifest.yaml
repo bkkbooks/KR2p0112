@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0112_001.yaml, hash: 'sha256:93bf0c638f7082724f986897abd02eff3cbf7bc7754bc976e186db2ce4277bdc'}
+  - {seq: 1, filename: KR2p0112_001.yaml, hash: 'sha256:3a0ac5fa7cdc7d1004eabf46c3247b6332edf476416b86035428d380ceb6b98e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0112_001.markers.yaml, hash: 'sha256:a673c63733fc26f7e864db53c5f1cef45316f934040b50fd2a6fec0be0d79300'}
+  - {seq: 1, role: markers, filename: assets/KR2p0112_001.markers.yaml, hash: 'sha256:227cb7308311b3d02ae11a1f082d801f4d8eda7bec3a3ad318a7730cb2db1af4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 散見簡牘合輯甘肅甘谷漢簡
   type: section
   level: 1
-hash: sha256:ecb58f935bf97a1ee63399b712a87d529e29d53c0de5063dc2090e446852e205
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:96c9c93da45cc0db22d184e2508770a17d417ae4852ff87e4e16ac6466e8b292
