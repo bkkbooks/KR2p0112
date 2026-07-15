@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0112/v1
 canonical_location: https://kanripo.org/bkk/KR2p0112/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 甘肅甘谷漢簡
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0112_001.yaml, hash: 'sha256:3a0ac5fa7cdc7d1004eabf46c3247b6332edf476416b86035428d380ceb6b98e'}
+  - {seq: 1, filename: KR2p0112_001.yaml, hash: 'sha256:2470ffe9868cb0d49b7b22e1a20e660da82bbf6ce374cb96d68e625e977af846'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0112_001.markers.yaml, hash: 'sha256:227cb7308311b3d02ae11a1f082d801f4d8eda7bec3a3ad318a7730cb2db1af4'}
+  - {seq: 1, role: markers, filename: assets/KR2p0112_001.markers.yaml, hash: 'sha256:b9b1404b96d1c6dd7a158074b7cb8e4e157a2b2d3119458d010033013aa70ba2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 散見簡牘合輯甘肅甘谷漢簡
   type: section
   level: 1
-hash: sha256:96c9c93da45cc0db22d184e2508770a17d417ae4852ff87e4e16ac6466e8b292
+hash: sha256:caca4dc167d6c65b594935d9924677b40840d87bdc3837ec1c892038cd14eef3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
